@@ -24,7 +24,7 @@ body {
     color: white;
     padding: 1rem;
     border-radius: 8px;
-    justify-self: flex-end, stretch;
+    align-self: stretch;
     order: 4;
   }
   
